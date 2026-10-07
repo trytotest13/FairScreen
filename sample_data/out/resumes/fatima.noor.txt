@@ -1,0 +1,15 @@
+Fatima Noor
+Denver, USA
+Email: fatima.noor@example.com | Phone: 555-690-8744
+
+Summary: Data analyst with 5 years of experience turning messy data into decisions. She enjoys partnering with stakeholders and shipping dashboards people actually use.
+
+Education: B.Sc. in Statistics, City University (2019)
+
+Skills: Data Visualization, Data Warehousing, Excel, Google Analytics, SQL, Tableau
+
+Experience:
+- Built Tableau dashboards adopted by 4 teams
+- Wrote advanced SQL and Excel models for weekly and monthly reporting
+- Modeled warehouse tables in Snowflake for self-serve analytics
+- Led weekly metric reviews; her documentation became the team reference

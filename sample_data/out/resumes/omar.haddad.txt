@@ -1,0 +1,17 @@
+Omar Haddad
+Chicago, USA
+Email: omar.haddad@example.com | Phone: 555-180-5803
+
+Summary: Data analyst with 3 years of experience turning messy data into decisions. He enjoys partnering with stakeholders and shipping dashboards people actually use.
+
+Education: B.Sc. in Statistics, UC Berkeley (2021)
+
+Skills: Data Visualization, Excel, Google Analytics, Machine Learning, Power BI, Python, SQL, Tableau
+
+Experience:
+- Built Tableau dashboards adopted by 9 teams
+- Wrote advanced SQL and Excel models for weekly and monthly reporting
+- Automated weekly reporting with Python and pandas, cutting manual work by 5 hours per week
+- Migrated legacy Excel reports into Power BI models
+- Built a churn-scoring model with scikit-learn used by retention
+- Led weekly metric reviews; his documentation became the team reference

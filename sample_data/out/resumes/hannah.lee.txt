@@ -1,0 +1,16 @@
+Hannah Lee
+Seattle, USA
+Email: hannah.lee@example.com | Phone: 555-578-1887
+
+Summary: Data analyst with 9 years of experience turning messy data into decisions. She enjoys partnering with stakeholders and shipping dashboards people actually use.
+
+Education: B.Sc. in Statistics, MIT (2015)
+
+Skills: A/B Testing, Data Visualization, Excel, Power BI, SQL, Tableau
+
+Experience:
+- Built Tableau dashboards adopted by 8 teams
+- Wrote advanced SQL and Excel models for weekly and monthly reporting
+- Designed 10 A/B tests with proper power analysis; two won and shipped
+- Migrated legacy Excel reports into Power BI models
+- Led weekly metric reviews; her documentation became the team reference

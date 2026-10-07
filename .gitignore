@@ -1,0 +1,35 @@
+# Secrets & environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.secret
+credentials.json
+service-account*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# App data
+data/
+uploads/
+*.db
+
+# Logs & caches
+*.log
+.DS_Store
+Thumbs.db
+.pytest_cache/
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/

@@ -1,0 +1,16 @@
+Grace Okafor
+Austin, USA
+Email: grace.okafor@example.com | Phone: 555-200-1828
+
+Summary: Data analyst with 4 years of experience turning messy data into decisions. She enjoys partnering with stakeholders and shipping dashboards people actually use.
+
+Education: B.Sc. in Statistics, Carnegie Mellon University (2022)
+
+Skills: Data Visualization, Data Warehousing, Excel, Power BI, SQL, Tableau
+
+Experience:
+- Built Tableau dashboards adopted by 8 teams
+- Wrote advanced SQL and Excel models for weekly and monthly reporting
+- Migrated legacy Excel reports into Power BI models
+- Modeled warehouse tables in Snowflake for self-serve analytics
+- Led weekly metric reviews; her documentation became the team reference

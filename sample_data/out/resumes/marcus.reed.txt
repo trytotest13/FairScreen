@@ -1,0 +1,19 @@
+Marcus Reed
+Atlanta, USA
+Email: marcus.reed@example.com | Phone: 555-605-2489
+
+Summary: Data analyst with 5 years of experience turning messy data into decisions. He enjoys partnering with stakeholders and shipping dashboards people actually use.
+
+Education: B.Sc. in Statistics, Riverdale Institute (2019)
+
+Skills: A/B Testing, Data Visualization, Data Warehousing, Excel, Machine Learning, Power BI, Python, SQL, Tableau
+
+Experience:
+- Built Tableau dashboards adopted by 9 teams
+- Wrote advanced SQL and Excel models for weekly and monthly reporting
+- Automated weekly reporting with Python and pandas, cutting manual work by 3 hours per week
+- Designed 12 A/B tests with proper power analysis; two won and shipped
+- Migrated legacy Excel reports into Power BI models
+- Modeled warehouse tables in Snowflake for self-serve analytics
+- Built a churn-scoring model with scikit-learn used by retention
+- Led weekly metric reviews; his documentation became the team reference

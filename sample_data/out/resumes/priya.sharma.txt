@@ -1,0 +1,14 @@
+Priya Sharma
+Denver, USA
+Email: priya.sharma@example.com | Phone: 555-294-9786
+
+Summary: Data analyst with 3 years of experience turning messy data into decisions. She enjoys partnering with stakeholders and shipping dashboards people actually use.
+
+Education: B.Sc. in Statistics, Riverdale Institute (2023)
+
+Skills: Data Visualization, Excel, SQL, Statistics, Tableau
+
+Experience:
+- Built Tableau dashboards adopted by 6 teams
+- Wrote advanced SQL and Excel models for weekly and monthly reporting
+- Led weekly metric reviews; her documentation became the team reference

@@ -1,0 +1,18 @@
+Kevin Zhao
+Boston, USA
+Email: kevin.zhao@example.com | Phone: 555-400-8123
+
+Summary: Data analyst with 6 years of experience turning messy data into decisions. He enjoys partnering with stakeholders and shipping dashboards people actually use.
+
+Education: B.Sc. in Statistics, State College (2018)
+
+Skills: A/B Testing, Data Visualization, Data Warehousing, Excel, Google Analytics, Power BI, Python, SQL, Tableau
+
+Experience:
+- Built Tableau dashboards adopted by 4 teams
+- Wrote advanced SQL and Excel models for weekly and monthly reporting
+- Automated weekly reporting with Python and pandas, cutting manual work by 4 hours per week
+- Designed 5 A/B tests with proper power analysis; two won and shipped
+- Migrated legacy Excel reports into Power BI models
+- Modeled warehouse tables in Snowflake for self-serve analytics
+- Led weekly metric reviews; his documentation became the team reference

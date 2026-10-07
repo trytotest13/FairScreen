@@ -1,0 +1,16 @@
+Emily Watson
+Atlanta, USA
+Email: emily.watson@example.com | Phone: 555-165-6539
+
+Summary: Data analyst with 5 years of experience turning messy data into decisions. She enjoys partnering with stakeholders and shipping dashboards people actually use.
+
+Education: B.Sc. in Statistics, UC Berkeley (2020)
+
+Skills: Data Visualization, Excel, Power BI, Python, SQL, Statistics, Tableau
+
+Experience:
+- Built Tableau dashboards adopted by 3 teams
+- Wrote advanced SQL and Excel models for weekly and monthly reporting
+- Automated weekly reporting with Python and pandas, cutting manual work by 3 hours per week
+- Migrated legacy Excel reports into Power BI models
+- Led weekly metric reviews; her documentation became the team reference
