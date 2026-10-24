@@ -35,8 +35,15 @@ def redact(text: str) -> Redaction:
     lines = result.splitlines()
     for index, line in enumerate(lines):
         stripped = line.strip()
-        if stripped and len(stripped) <= 48 and not any(c.isdigit() for c in stripped) and "@" not in stripped:
-            result = "\n".join(["[name removed]"] + lines[index + 1 :])
+        # A name line is short, has no digits or @, and is not an ALL-CAPS heading
+        if (
+            stripped
+            and len(stripped) <= 48
+            and not any(c.isdigit() for c in stripped)
+            and "@" not in stripped
+            and not stripped.isupper()
+        ):
+            result = "\n".join(lines[:index] + ["[name removed]"] + lines[index + 1 :])
             removed.append("name line")
             break
 

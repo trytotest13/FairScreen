@@ -150,6 +150,15 @@ if run or "ranking" in st.session_state:
             frame[["rank", "candidate", "score", "text similarity", "skill coverage", "gaps"]],
             use_container_width=True,
             hide_index=True,
+            column_config={
+                "score": st.column_config.ProgressColumn("score", min_value=0.0, max_value=1.0, format="%.3f"),
+                "text similarity": st.column_config.ProgressColumn(
+                    "text similarity", min_value=0.0, max_value=1.0, format="%.3f"
+                ),
+                "skill coverage": st.column_config.ProgressColumn(
+                    "skill coverage", min_value=0.0, max_value=1.0, format="%.2f"
+                ),
+            },
         )
         st.caption(DISCLAIMER)
 

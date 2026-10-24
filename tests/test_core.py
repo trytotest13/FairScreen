@@ -11,6 +11,7 @@ from sample_data.generate import SAMPLE_JD, build_fixture
 
 def test_redact_removes_all_pii():
     text = (
+        "CURRICULUM VITAE\n"
         "Jane Doe\n"
         "jane.doe@example.com | 555-123-4567\n"
         "github.com/janedoe\n"
@@ -21,6 +22,7 @@ def test_redact_removes_all_pii():
     assert "555-123-4567" not in result.text
     assert "github.com" not in result.text
     assert "Jane Doe" not in result.text
+    assert "CURRICULUM VITAE" in result.text  # all-caps headings are kept, not treated as names
     assert set(result.removed) == {"email", "phone", "link", "name line"}
     assert "SQL and Python" in result.text
 

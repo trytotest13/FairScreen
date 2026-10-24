@@ -3,8 +3,8 @@
 Resume screener for a single job description: rank candidates by match score,
 show the skill gaps behind every score, redact identifying details on request,
 and run a 4/5ths-rule adverse-impact audit on the resulting shortlist. The
-bias audit is a feature, not a disclaimer: it measures the ranking you just
-produced and flags it.
+audit measures the ranking you just produced and flags disparity for
+investigation.
 
 ## What it does
 

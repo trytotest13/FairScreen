@@ -15,7 +15,7 @@
 ## Bias-audit conventions
 
 - The audit computes only on provided metadata; it never infers protected attributes from text.
-- Every audit display shows the arithmetic (rates, ratio, threshold), not just a verdict.
+- Every audit display shows the arithmetic (rates, ratio, threshold) alongside the verdict.
 - Proxy flags name the category and show the matched fragment; they are informational, never penalties.
 - The synthetic fixture is labeled synthetic everywhere it appears.
 
