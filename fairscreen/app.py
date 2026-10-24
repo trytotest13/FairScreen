@@ -82,6 +82,11 @@ with st.sidebar:
         value=cfg.embeddings_enabled,
         help="Off uses TF-IDF only: fully offline and instant",
     )
+    # a ranking produced under different settings is stale the moment these change
+    if st.session_state.get("_redact_on") != redact_on or st.session_state.get("_semantic") != use_semantic:
+        st.session_state.pop("ranking", None)
+        st.session_state["_redact_on"] = redact_on
+        st.session_state["_semantic"] = use_semantic
 
     st.header("Job description")
     jd = st.text_area("Paste the job description", value=FIXTURE_JD, height=240)
